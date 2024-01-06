@@ -13,19 +13,7 @@ export default function Card({ name, universe, url, alterego, occupation, friend
             <h3 className="superpowers">Суперсила: {superpowers}</h3>
             <Rating />
         </div>
-        // <div className="card">
-        //     <h2></h2>
-        //     <img className="image_hero"></img>
-        //     <h3 className="universe">Вселенная: </h3>
-        //     <h3 className="alterego">Альтер-эго:</h3>
-        //     <h3 className="occupation">Деятельность:</h3>
-        //     <h3 className="friends">Друзья:</h3>
-        //     <h3 className="superpowers">Суперсила:</h3>
-        //     <a>
-        //         <h3>Полная информация</h3>
-        //     </a>
-        //     <Rating />
-        // </div>
+
     )
 
 }
