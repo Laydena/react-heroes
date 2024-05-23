@@ -4,6 +4,7 @@ import Main from './components/Main';
 
 
 function App() {
+
   // console.log(data.heroes)
   return (
     <>
